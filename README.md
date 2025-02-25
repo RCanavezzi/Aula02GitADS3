@@ -2,4 +2,4 @@
 
 Repositório criado para Exemplo na aula de Git da UniFAAT
 
-Alteraçãp efetuada na Maquina
+Alteração efetuada na Maquina
